@@ -1,4 +1,5 @@
 # Excel_challenge
+Graded: 100/100
 Module 1 Challenge 1
 
 
